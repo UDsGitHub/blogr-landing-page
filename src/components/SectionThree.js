@@ -9,7 +9,6 @@ const SectionThree = () => {
           <source
             media="(min-width: 1024px)"
             srcSet={desktopImage}
-            alt="laptop illustration"
           />
           <img
             src={mobileImage}

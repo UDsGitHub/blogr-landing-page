@@ -33,7 +33,6 @@ const SectionOne = () => {
           <source
             media="(min-width: 1024px)"
             srcSet={desktopImage}
-            alt="editor illustration"
           />
           <img
             src={mobileImage}
