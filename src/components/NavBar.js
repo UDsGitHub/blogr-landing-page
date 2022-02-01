@@ -28,7 +28,6 @@ const NavBar = () => {
                           <source
                             media="(min-width: 768px)"
                             srcSet={arrowLight}
-                            alt="dropdown arrow"
                           />
                           <img src={arrowDark} alt="dropdown arrow" />
                         </picture>
